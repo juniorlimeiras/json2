@@ -40,5 +40,37 @@
             "papel": "ADMIN",
             "senha": "$2a$10$sgd6YHGf87FJHh87NjjgdT"
         }
+    ],
+    "atendimentos": [
+        {
+            "id": 1,
+            "data": "15/06/2024",
+            "hora": "08:00",
+            "status": "agendado"
+        },
+        {
+            "id": 2,
+            "data": "15/06/2024",
+            "hora": "09:00",
+            "status": "agendado"
+        },
+        {
+            "id": 3,
+            "data": "16/05/2024",
+            "hora": "10:30",
+            "status": "realizado"
+        },
+        {
+            "id": 4,
+            "data": "15/05/2024",
+            "hora": "11:00",
+            "status": "realizado"
+        },
+        {
+            "id": 5,
+            "data": "17/06/2024",
+            "hora": "08:00",
+            "status": "agendado"
+        }
     ]
 }
